@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilsingh907/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nikhilsingh907/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh907/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nikhilsingh907/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/nikhilsingh907/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nikhilsingh907/LeetCode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nikhilsingh907/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhilsingh907/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh907/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/nikhilsingh907/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nikhilsingh907/LeetCode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/nikhilsingh907/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilsingh907/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nikhilsingh907/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/nikhilsingh907/LeetCode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
