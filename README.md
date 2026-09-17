@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nikhilsingh907/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nikhilsingh907/LeetCode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/nikhilsingh907/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilsingh907/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh907/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/nikhilsingh907/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nikhilsingh907/LeetCode/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhilsingh907/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhilsingh907/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nikhilsingh907/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilsingh907/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh907/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsingh907/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
