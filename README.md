@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nikhilsingh907/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilsingh907/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nikhilsingh907/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh907/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsingh907/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilsingh907/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsingh907/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhilsingh907/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsingh907/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/nikhilsingh907/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsingh907/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsingh907/LeetCode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilsingh907/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhilsingh907/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nikhilsingh907/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/nikhilsingh907/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/nikhilsingh907/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nikhilsingh907/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/nikhilsingh907/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilsingh907/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/nikhilsingh907/LeetCode/tree/master/0713-subarray-product-less-than-k) |
