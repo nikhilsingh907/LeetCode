@@ -1,36 +1,54 @@
+import java.util.*;
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> res =new ArrayList<>();
-        if(s.length() < p.length()) return res;
-
-        Map<Character, Integer> map = new HashMap<>();
-        for(char c : p.toCharArray() ){
-            map.put(c, map.getOrDefault(c, 0)+1);
-        }
-
-        int left =0, count = p.length();
-
-        for(int right=0; right < s.length(); right++){
-            char ch= s.charAt(right);
-
-            int val = map.getOrDefault(ch,0);
-            if(val >0) count--;
-            map.put(ch,val-1);
-
-            if(right -left +1 > p.length()){
-                char leftChar = s.charAt(left);
-
-                int leftVal = map.getOrDefault(leftChar, 0);
-                if(leftVal >= 0) count ++;
-                map.put(leftChar, leftVal + 1);
-
-                left ++;
+       return new AbstractList<Integer>() {
+            List<Integer> ans;
+            private void init(){
+                if(ans != null)
+                    return;
+                HashMap<Character, Integer> map = new HashMap<>();
+                for(int i = 0; i < p.length(); i++){
+                    map.put(p.charAt(i), map.getOrDefault(p.charAt(i), 0) + 1);
+                }
+                ans = new ArrayList<>();
+                int i = 0;
+                int count = map.size();
+                int j = 0;
+                int k = p.length();
+                while(j < s.length()){
+                    if(map.containsKey(s.charAt(j))){
+                        map.put(s.charAt(j), map.get(s.charAt(j)) - 1);
+                        if(map.get(s.charAt(j)) == 0) count--;
+                    }
+                    if(j - i + 1 < k){
+                        j++;
+                    }else if(j - i + 1 == k){
+                        if(count == 0){
+                            ans.add(i);
+                        }
+                        if(map.containsKey(s.charAt(i))){
+                            map.put(s.charAt(i), map.get(s.charAt(i)) + 1);
+                            if(map.get(s.charAt(i)) == 1) count++;
+                        }
+                        i++;
+                        j++;
+                    }
+                }
+            }
+            @Override
+            public Integer get(int index) {
+                if(ans == null)
+                    init();
+                return ans.get(index);
             }
 
-            if(count == 0){
-                res.add(left);
+            @Override
+            public int size() {
+                if(ans == null)
+                    init();
+                return ans.size();
             }
-        }
-        return res;
+        };
+
     }
 }
