@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nikhilsingh907/LeetCode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/nikhilsingh907/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsingh907/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/nikhilsingh907/LeetCode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/nikhilsingh907/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/nikhilsingh907/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nikhilsingh907/LeetCode/tree/master/0739-daily-temperatures) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nikhilsingh907/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nikhilsingh907/LeetCode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/nikhilsingh907/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/nikhilsingh907/LeetCode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhilsingh907/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/nikhilsingh907/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nikhilsingh907/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilsingh907/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/nikhilsingh907/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
