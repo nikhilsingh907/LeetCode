@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhilsingh907/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/nikhilsingh907/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/nikhilsingh907/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nikhilsingh907/LeetCode/tree/master/0070-climbing-stairs) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhilsingh907/LeetCode/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/nikhilsingh907/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/nikhilsingh907/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nikhilsingh907/LeetCode/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nikhilsingh907/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
