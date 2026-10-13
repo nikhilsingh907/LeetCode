@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii">82. Remove Duplicates from Sorted List II</a></h2><h3>Medium</h3><hr><p>You are given the <code>head</code> of a <strong>sorted</strong> linked list.</p>
+<h2><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/">82. Remove Duplicates from Sorted List II</a></h2><h3>Medium</h3><hr><p>You are given the <code>head</code> of a <strong>sorted</strong> linked list.</p>
 
 <p>Delete all nodes that have <strong>duplicate</strong> numbers, leaving only <strong>distinct</strong> numbers from the original list.</p>
 
