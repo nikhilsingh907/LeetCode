@@ -28,15 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Hash Table](Topics/hash-table/) | 3 |
-| [Linked List](Topics/linked-list/) | 14 |
-| [Math](Topics/math/) | 2 |
+| [Array](Topics/array/) | 3 |
+| [Binary Search](Topics/binary-search/) | 2 |
+| [Combinatorics](Topics/combinatorics/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
+| [Hash Table](Topics/hash-table/) | 4 |
+| [Linked List](Topics/linked-list/) | 18 |
+| [Math](Topics/math/) | 5 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Recursion](Topics/recursion/) | 7 |
+| [Recursion](Topics/recursion/) | 8 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 <!---LeetHub Summary End-->
