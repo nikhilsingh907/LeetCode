@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:56:13.086Z",
+  "updatedAt": "2026-10-13T16:56:52.587Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "a0cff3c640dc74aa91d9702cd1f2da97d23a7fd0",
           "lastSyncedAt": "2026-10-13T16:56:00.354Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0150-evaluate-reverse-polish-notation.java",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.java",
+          "sha": "fa871af553bb91012c3f2874320ede22370e2933",
+          "lastSyncedAt": "2026-10-13T16:56:52.587Z"
         }
       ]
     },
