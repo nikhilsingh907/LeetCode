@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:54:47.915Z",
+  "updatedAt": "2026-10-13T16:55:45.506Z",
   "problems": [
     {
       "frontendId": "13",
@@ -64,6 +64,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
           "sha": "684e147c13b549200021b444860479d984e078e6",
           "lastSyncedAt": "2026-10-13T16:54:36.352Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "0160-intersection-of-two-linked-lists/",
+      "readmePath": "0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0160-intersection-of-two-linked-lists.java",
+          "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.java",
+          "sha": "cc1ecbb04df93afca2dd3c6d7ded8e25fcb7c80d",
+          "lastSyncedAt": "2026-10-13T16:55:45.506Z"
         }
       ]
     }
