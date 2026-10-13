@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T16:53:03.697Z",
+  "updatedAt": "2026-10-13T16:53:40.512Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0021-merge-two-sorted-lists.java",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
+          "sha": "ef7b27f90d8d0671f3925d53119f543f7791fdcb",
+          "lastSyncedAt": "2026-10-13T16:53:40.512Z"
+        }
+      ]
+    },
     {
       "frontendId": "143",
       "title": "Reorder List",
