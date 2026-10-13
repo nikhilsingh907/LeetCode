@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers",
+    "tagId": "9"
+  },
+  "updatedAt": "2026-10-13T16:48:57.483Z",
+  "problems": [
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "0086-partition-list/",
+      "readmePath": "0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0086-partition-list.java",
+          "path": "0086-partition-list/0086-partition-list.java",
+          "sha": "8cb4bb67cd576fbdfa7961c2d838d64464a4f2cd",
+          "lastSyncedAt": "2026-10-13T16:48:57.483Z"
+        }
+      ]
+    }
+  ]
+}
