@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:53:20.091Z",
+  "updatedAt": "2026-10-13T16:53:54.238Z",
   "problems": [
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0061-rotate-list.java",
+          "path": "0061-rotate-list/0061-rotate-list.java",
+          "sha": "0f78661fbf61db1f7b30a832eecc2e28211db732",
+          "lastSyncedAt": "2026-10-13T16:53:54.238Z"
+        }
+      ]
+    },
     {
       "frontendId": "82",
       "title": "Remove Duplicates from Sorted List II",
