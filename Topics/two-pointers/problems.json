@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T16:55:04.436Z",
+  "updatedAt": "2026-10-13T16:55:37.113Z",
   "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0019-remove-nth-node-from-end-of-list.java",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
+          "sha": "4db8596c3d2d22bf3a2b98ae0a05fbeafaade40d",
+          "lastSyncedAt": "2026-10-13T16:55:37.113Z"
+        }
+      ]
+    },
     {
       "frontendId": "61",
       "title": "Rotate List",
