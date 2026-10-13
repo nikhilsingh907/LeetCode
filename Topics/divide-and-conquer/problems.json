@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-13T16:53:20.091Z",
+  "updatedAt": "2026-10-13T16:56:00.354Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "a0cff3c640dc74aa91d9702cd1f2da97d23a7fd0",
+          "lastSyncedAt": "2026-10-13T16:56:00.354Z"
+        }
+      ]
+    },
     {
       "frontendId": "148",
       "title": "Sort List",
