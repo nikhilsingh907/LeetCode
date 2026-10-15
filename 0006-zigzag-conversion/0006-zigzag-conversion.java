@@ -4,27 +4,30 @@ class Solution {
         if (numRows == 1 || numRows >= s.length()) {
             return s;
         }
+
         StringBuilder[] rows = new StringBuilder[numRows];
+
         for (int i = 0; i < numRows; i++) {
             rows[i] = new StringBuilder();
         }
 
         int row = 0;
-        int direction = 1;
+        int direction = -1;
 
         for (char ch : s.toCharArray()) {
             rows[row].append(ch);
 
-            if (row == 0) {
-                direction = 1;
-            } else if (row == numRows - 1) {
-                direction = -1;
+            if (row == 0 || row == numRows - 1) {
+                direction = -direction;
             }
+
             row += direction;
         }
+
         StringBuilder result = new StringBuilder();
-        for (StringBuilder sb : rows) {
-            result.append(sb);
+
+        for (StringBuilder r : rows) {
+            result.append(r);
         }
 
         return result.toString();
